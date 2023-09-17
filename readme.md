@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a ><img src="https://github.com/AbdulRahman-Sharief/Natours/blob/master/logo-green-round.png" width="200"></a>
+  <a href="https://lgope-natours.onrender.com/" ><img src="https://github.com/AbdulRahman-Sharief/Natours/blob/master/logo-green-round.png" width="200"></a>
   <br>
   Natours
   <br>
@@ -22,8 +22,7 @@
 </p>
 
 ## Deployed Version
-Live demo (Feel free to visit) 👉 : https://natours-api-z82r.onrender.com/
-
+Live demo (Feel free to visit) 👉 : https://lgope-natours.onrender.com/
 
 ## Key Features
 
