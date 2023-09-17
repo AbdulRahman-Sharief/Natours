@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a ><img src="https://drive.google.com/file/d/1-g6oX8H2KQ97BoXoBX0_6jJsP2u2mczh/view?usp=sharing" width="200"></a>
+  <a ><img src="https://github.com/AbdulRahman-Sharief/Natours/blob/master/logo-green-round.png" width="200"></a>
   <br>
   Natours
   <br>
